@@ -1,0 +1,2 @@
+Homework: In a js file called linked_list.js, build a linked list and node class with out reference. Then, add 3 nodes to that linked list using a push class method.
+*push method that can be called on the linked list
